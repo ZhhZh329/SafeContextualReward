@@ -8,6 +8,8 @@ wheels/
 data/
 .DS_Store
 models/language_models
+uv.lock
+results
 
 # Virtual environments
 .venv
