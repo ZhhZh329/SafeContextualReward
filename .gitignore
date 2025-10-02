@@ -10,6 +10,7 @@ data/
 models/language_models
 uv.lock
 results
+notebooks/*/*.png
 
 # Virtual environments
 .venv
